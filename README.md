@@ -50,6 +50,7 @@ DAX functions were used to determine the key performance indicators (measures), 
 
 ### Reporting
 A dashboard was built to visualize key performance indicators (KPIs) and answer other related questions. Similarly, a relationship model among the dataset variables was established. Meanwhile, the choice of colours for the dashboard and visuals was based on the colour elements of the company's logo.
+<img width="1300" height="746" alt="Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/7b94a13e-1ace-4151-bbe7-f796c9f7d4c9" />
 
 ### Findings
 The findings of the analysis are summarised below:
