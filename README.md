@@ -10,8 +10,9 @@
 - [Reporting](#reporting)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
+  
 ##  Project Overview
-This data analysis project aims to provide insights into the sales performance of a Germany-based pharmaceutical company over the 2022-2025 period. By analysing the various aspects of the sales, I seek to identify the revenues generated and trend (year-on-year) compared to the targets, distribution of the revenues by product-class, channels and location, and the performance of the various sales team. 
+This data analysis project aims to provide insights into the sales performance of a Germany-based pharmaceutical company over the 2022-2025 period. By analysing the various aspects of the sales, I seek to identify the revenues generated and trend (year-on-year) compared to the targets, distribution of the revenues by product-class, channels, and location, and the performance of the various sales teams. 
 
 ### Data Sources
 The datasets used for this analysis consist of sales, target, employees, location, channels, and products data. Download links attached for your use.
@@ -48,7 +49,7 @@ DAX functions were used to determine the key performance indicators (measures), 
 - CALCULATE([Sales Revenue], SAMEPERIODLASTYEAR('Calendar'[Date]
 
 ### Reporting
-A dashboard was built to visualize key performance indicators (KPIs) and answer other related questions. Similarly, a relationship model among the dataset variables was established.
+A dashboard was built to visualize key performance indicators (KPIs) and answer other related questions. Similarly, a relationship model among the dataset variables was established. Meanwhile, the choice of colours for the dashboard and visuals was based on the colour elements of the company's logo.
 
 ### Findings
 The findings of the analysis are summarised below:
@@ -64,4 +65,5 @@ Based on the analysis, the following recommendations are necessary:
  1. The company should invest more in marketing and promotion during the low-peak sales months of January, April, and October.
  2. Focus on promoting the products in low-sales cities like Springe, Aurich, Schwelm, Oberrursel, and Weihl, without losing the grip on the high-sales cities.
  3. Incentivize the product distributors through commission.
+㊗️🥇
 
